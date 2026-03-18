@@ -1,6 +1,5 @@
-def saludar(mensaje):
-    print(mensaje)
+nombre = "Juan"
+edad   = 99
 
-saludar("Eeee")
-saludar("Quedan 5 minutos")
-saludar("hello world")
+
+print(nombre, "tiene", edad, "años")
